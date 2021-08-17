@@ -2,7 +2,7 @@
 
 <br />
 
-## Hey 👋 I'm DinSan 
+## Hey I'm DinSan <img width="36px" src="https://github.com/DinSanGun/DinSanGun/blob/main/waving.gif">  
 I am a self-taught developer, currently running 🏃‍♂️ for Full-Stack positions.
 
 
