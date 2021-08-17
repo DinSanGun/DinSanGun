@@ -1,7 +1,8 @@
 <img src="https://github.com/DinSanGun/DinSanGun/blob/main/Profile-Banner.png">
 
-## Hey 👋 I'm DinSan
-<hr/>
+<br />
+
+## Hey 👋 I'm DinSan 
 I am a self-taught develope, currently running 🏃‍♂️ for Full-Stack positions.
 
 
