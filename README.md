@@ -3,7 +3,7 @@
 <br />
 
 ## Hey 👋 I'm DinSan 
-I am a self-taught develope, currently running 🏃‍♂️ for Full-Stack positions.
+I am a self-taught developer, currently running 🏃‍♂️ for Full-Stack positions.
 
 
 ### 🛠 Languages and Tools:
