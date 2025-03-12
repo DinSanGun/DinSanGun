@@ -2,52 +2,31 @@
 
 <br />
 
-## Hey I'm DinSan <img width="28x" src="https://github.com/DinSanGun/DinSanGun/blob/main/wave.gif">  
-I am a self-taught developer, currently running 🏃‍♂️ for Full-Stack positions.
+# **Hi there, I'm Din Yair Sadot!** 👋  
 
+🚀 **Software & Web Developer | CS & Philosophy Student @ Ben-Gurion University**  
 
-### 🛠 Languages and Tools:
-<hr/>
-<p float="left">
-  <img src="https://github.com/DinSanGun/DinSanGun/blob/main/bigger%20icons/react.png" width="48px" style="margin=10px;">
-  <img src="https://github.com/DinSanGun/DinSanGun/blob/main/bigger%20icons/html.png" width="48px" style="margin=10px;">
-  <img src="https://github.com/DinSanGun/DinSanGun/blob/main/bigger%20icons/css.png" width="48px" style="margin=10px;">
-  <img src="https://github.com/DinSanGun/DinSanGun/blob/main/bigger%20icons/js.png" width="48px" style="margin=10px;">
-  <img src="https://github.com/DinSanGun/DinSanGun/blob/main/bigger%20icons/python.png" width="48px" style="margin=10px;">
-  <img src="https://github.com/DinSanGun/DinSanGun/blob/main/bigger%20icons/java.png" width="48px" style="margin=10px;">
-  <img src="https://github.com/DinSanGun/DinSanGun/blob/main/bigger%20icons/mongodb.png" width="48px" style="margin=10px;">
-  <img src="https://github.com/DinSanGun/DinSanGun/blob/main/bigger%20icons/nodejs.png" width="48px" style="margin=10px;">
-</p>
+## **About Me**  
+I'm a passionate **software and web developer** with a deep love for coding, problem-solving, and exploring new technologies. Currently, I'm in my **third year of Computer Science** at **Ben-Gurion University**, where I'm sharpening my analytical skills and diving deep into algorithms and data structures.  
 
-<br />
-<br />
+In addition to my CS studies, I’m also pursuing **Philosophy**, fascinated by the theories of **Plato, Immanuel Kant, and Spinoza**.  
 
+Oh, and I’m also a **great cook**—I love experimenting with new recipes! 👨‍🍳🔥  
 
-### I also really enjoy making sushi 
+## **Tech Stack & Skills**  
+💻 **Frontend:** React.js, HTML, SCSS, JavaScript  
+⚙️ **Backend:** Node.js, Express.js  
+🗄 **Databases:** MongoDB, REST APIs  
+☁ **Cloud & DevOps:** AWS (S3, EC2), Deployment  
+🧠 **AI & ML:** Neural Networks (NumPy, ResNet), Machine Learning Fundamentals  
+🛠 **Other Skills:** Data Structures & Algorithms, Problem-Solving  
 
-![Sushi](https://media.giphy.com/media/A0EsxeeJz7asU/giphy.gif)
+## **Notable Projects**  
+🎨 **[Limor-Sadot-Art](https://github.com/DinYair/Limor-Sadot-Art) & [limor-sadot-server](https://github.com/DinYair/limor-sadot-server)**  
+📌 Built a **portfolio website for an artist** from scratch using React.js, deployed on **AWS (S3, EC2)**  
 
+🤖 **Neural Networks Mini-Project**  
+📌 Implemented a **fully functional neural network** and a **ResNet** from scratch using **NumPy**, achieving **95% accuracy** on datasets  
 
-📫 Reach me if you want to collaborate on programming projects (or sushi making):
-<ul>
-  <li><a href="https://www.linkedin.com/in/din-yair-sadot-5a05a616b/">LinkedIn</a></li>
-  <li><a href="https://www.facebook.com/dinyair/">Facebook</a></li>
-  <li>Email: <a href="mailto:dinsadot@gmail.com">dinsadot@gmail.com</a></li>
- </ul>
-
-
-
-<!--
-**DinSanGun/DinSanGun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Let's Connect!**  
+📎 **LinkedIn:** [din-yair](https://www.linkedin.com/in/din-yair/)  
