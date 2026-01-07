@@ -1,32 +1,43 @@
-<img src="https://github.com/DinSanGun/DinSanGun/blob/main/Profile-Banner.png">
+# Hi there, I'm Din Yair Sadot 👋  
 
-<br />
+🚀 Software Developer | Computer Science & Philosophy Graduate, Ben-Gurion University  
 
-# **Hi there, I'm Din Yair Sadot!** 👋  
+## About Me  
+I’m a **software developer** with a strong foundation in **computer science**, hands-on experience building **end-to-end applications**, and a deep interest in writing **clean, maintainable, and well-structured code**.
 
-🚀 **Software & Web Developer | CS & Philosophy Student @ Ben-Gurion University**  
+I recently graduated with a degree in **Computer Science and Philosophy** from **Ben-Gurion University**, where I developed strong analytical thinking, problem-solving skills, and a solid understanding of algorithms, systems, and software design.
 
-## **About Me**  
-I'm a passionate **software and web developer** with a deep love for coding, problem-solving, and exploring new technologies. Currently, I'm in my **third year of Computer Science** at **Ben-Gurion University**, where I'm sharpening my analytical skills and diving deep into algorithms and data structures.  
+Alongside my technical background, my studies in **Philosophy**—particularly Plato, Kant, and Spinoza—shaped the way I approach abstraction, correctness, and reasoning about complex systems.
 
-In addition to my CS studies, I’m also pursuing **Philosophy**, fascinated by the theories of **Plato, Immanuel Kant, and Spinoza**.  
+Outside of tech, I enjoy cooking and experimenting with new recipes 👨‍🍳
 
-Oh, and I’m also a **great cook**—I love experimenting with new recipes! 👨‍🍳🔥  
+## Tech Stack & Skills  
+💻 **Languages:** Python, JavaScript, Kotlin, Java
+🖥 **Frontend:** React.js, HTML, SCSS  
+⚙️ **Backend:** Node.js, Express.js, REST APIs  
+📱 **Mobile:** Android (Kotlin, Jetpack Compose, MVVM)  
+🗄 **Databases:** MongoDB, Room  
+☁ **Cloud & Deployment:** AWS (S3, EC2)  
+🧠 **CS Foundations:** Data Structures, Algorithms, OOP, Problem Solving  
+🤖 **AI & ML:** Neural Networks from scratch (NumPy), ML fundamentals  
 
-## **Tech Stack & Skills**  
-💻 **Frontend:** React.js, HTML, SCSS, JavaScript  
-⚙️ **Backend:** Node.js, Express.js  
-🗄 **Databases:** MongoDB, REST APIs  
-☁ **Cloud & DevOps:** AWS (S3, EC2), Deployment  
-🧠 **AI & ML:** Neural Networks (NumPy, ResNet), Machine Learning Fundamentals  
-🛠 **Other Skills:** Data Structures & Algorithms, Problem-Solving  
+## Notable Projects  
 
-## **Notable Projects**  
-🎨 **[Limor-Sadot-Art](https://github.com/DinYair/Limor-Sadot-Art) & [limor-sadot-server](https://github.com/DinYair/limor-sadot-server)**  
-📌 Built a **portfolio website for an artist** from scratch using React.js, deployed on **AWS (S3, EC2)**  
+📱 **Tax Tracker App (Android)**  
+📌 A personal finance Android application built with **Kotlin and Jetpack Compose**, focused on clean architecture and usability  
+📌 Implements **MVVM**, local persistence with **Room**, and structured navigation  
+📌 Designed as a real-world, maintainable product rather than a demo project  
 
-🤖 **Neural Networks Mini-Project**  
-📌 Implemented a **fully functional neural network** and a **ResNet** from scratch using **NumPy**, achieving **95% accuracy** on datasets  
+🎨 **Limor Sadot Art – Portfolio Website**  
+📌 Built and deployed a **full-stack artist portfolio** using **React.js** and **Node.js**  
+📌 Designed with a focus on performance, maintainability, and clean UI  
+📌 Deployed on **AWS (S3 + EC2)**  
+🔗 Frontend: https://github.com/DinYair/Limor-Sadot-Art  
+🔗 Backend: https://github.com/DinYair/limor-sadot-server  
 
-## **Let's Connect!**  
-📎 **LinkedIn:** [din-yair](https://www.linkedin.com/in/din-yair/)  
+🤖 **Neural Networks Mini Project**  
+📌 Implemented a **neural network and ResNet architecture from scratch** using **NumPy**  
+📌 Achieved ~**95% accuracy**, with a strong focus on understanding fundamentals rather than frameworks  
+
+## Let’s Connect  
+🔗 **LinkedIn:** https://www.linkedin.com/in/din-yair/  
